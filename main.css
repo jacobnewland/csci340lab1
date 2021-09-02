@@ -20,7 +20,7 @@ h1 {
   font-size: 32px;
   font-weight: 200;
   text-align: center;
-  color:#00cb00;
+  color:violet;
 }
 
 .back {
@@ -31,6 +31,9 @@ h1 {
   color:white;
 }
 
+h3{
+  color:white;
+}
 body {
   background-image: url("Farm.jpg");
   background-size: cover;
