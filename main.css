@@ -1,5 +1,9 @@
-.front {
-  margin: 20px
-  font-family: 'Anton', sans-serif;
+body {
+  text-align: center;
+}
 
+h1 {
+  margin: 20px;
+  font-family: 'Anton', sans-serif;
+  font-weight: 400;
 }
