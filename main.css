@@ -3,6 +3,7 @@ h1 {
   font-family: 'Anton', sans-serif;
   font-weight: 400;
   text-align: center;
+  color: white;
 }
 
 .front {
@@ -10,6 +11,7 @@ h1 {
   font-family: 'Anton', sans-serif;
   font-weight: 400;
   text-align: center;
+  color:white;
 }
 
 .middle {
@@ -17,6 +19,7 @@ h1 {
   font-family: 'Oswald', sans-serif;
   font-weight: 200;
   text-align: center;
+  color:white;
 }
 
 .back {
@@ -24,9 +27,10 @@ h1 {
   font-family: 'Oswald', sans-serif;
   font-weight: 200;
   text-align: center;
+  color:white;
 }
 
 body {
   background-image: url("Farm.jpg");
-  background-size: auto;
+  background-size: cover;
 }
